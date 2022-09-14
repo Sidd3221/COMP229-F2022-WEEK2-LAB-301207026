@@ -1,0 +1,2 @@
+# COMP229-F2022-WEEK2-LAB-301207026
+Github repository for COMP 229 Week 2 Lab
